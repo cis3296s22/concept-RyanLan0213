@@ -1,4 +1,4 @@
-# Proof of Concept for PROJECT NAME 
+# Proof of Concept for INFINITY JUMP 
 This document proposes a 3-D game that allows player to jump on the environment that has been chosen. The player would be using direction keys on the keyboard to control which direction the character would be jumping. The player would fails the game if character has step on air and the game will be ended with scores. The movement of the character would be design in 2-D while the effects and environment would be design in 3-D.
 
 # How to Build
