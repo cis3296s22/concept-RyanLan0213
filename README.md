@@ -11,7 +11,7 @@ Prerequisites:
 - The player will requires to download the compressed zip file and run the .exe extension file by unzip the file.
 - The player could also clone the whole project into unity and runs it with emulator.
 
-
+#Example of coding relevant to Infinity Jump
 Example of GUI or background Design using unity:
 ![11](https://user-images.githubusercontent.com/89798274/154823325-dcd06249-fd82-470c-80f5-c0957293dbfd.png)
 -Figure 1: An example of GUI background Design from youtuber Awesome Tuts
